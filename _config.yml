@@ -1,0 +1,22 @@
+highlighter: Rouge
+permalink: /:year/:month/:day/:title.html
+name: "august"
+markdown: Kramdown
+kramdown:
+  input: GFM
+
+author: "shuqing"
+
+navigations:
+  - title: Archive
+    class: fa fa-list-ul
+    href: /archive.html
+  - title: Tags
+    class: fa fa-tags
+    href: /tags.html
+  - title: About
+    class: fa fa-user
+    href: /about.html
+  - title: Gallery
+    class: fa fa-film
+    href: http://shuqingww3.github.io/blog
