@@ -6,7 +6,7 @@ tags:
   - 时间节点
 ---
 
-![no-self-control](/media/files/2016/08/10/no-self-control.png)
+![no-self-control](/media/files/2016/08/10/noselfcontrol.png)
 
 最近的拖延症犯的厉害 好多事情还是没做好决定
 - 昨天没有去买项链
