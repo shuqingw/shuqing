@@ -7,4 +7,4 @@ layout: page
 - In ShangHai, China
 - To reach me :D
 
-> [github](https://github.com/shuqingww3)
+> [github](https://github.com/shuqingw)

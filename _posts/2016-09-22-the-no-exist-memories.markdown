@@ -2,11 +2,10 @@
 layout: post
 title: memories for sale
 tags:
-  - gg
   - 胶带
 ---
 
-![memoriesInNanJ](/media/files/2016/09/22/memoriesInNanJ.jpg)
+![memoriesInNanJ](../media/files/2016/09/22/memoriesInNanJ.jpg)
 
 - 两年前南京的照片全毁了
 - 一直在想怎么向女朋友胶带:(    
