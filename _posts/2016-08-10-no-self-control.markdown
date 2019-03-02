@@ -5,7 +5,7 @@ tags:
   - 时间节点
 ---
 
-![no-self-control](../media/files/2016/08/10/no-self-control.PNG)
+![no-self-control](/media/files/2016/08/10/no-self-control.PNG)
 
 最近的拖延症犯的厉害 好多事情还是没做好决定
 
